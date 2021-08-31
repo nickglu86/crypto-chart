@@ -10,7 +10,8 @@
     align-items: center;
     height: 80px;
     border-bottom: 1px solid #d7d7d7;
-    width: 900px;
+    width: auto;
+    max-width: 1200px;
 }
 .coin{
     display: flex;
@@ -51,7 +52,7 @@
     width: 155px;
   }
   .coin-percent{
-      width: 100%;
+      width: 100px;
   }
 
   .red{
